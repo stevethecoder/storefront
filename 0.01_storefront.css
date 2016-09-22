@@ -1,10 +1,9 @@
 #title_photo{
 	float: left;
-    margin: 100px 0 0 50px;
-    box-shadow: 100px
+    margin: 0px 50px 0 50px;
 }
 
-#menu_text{
+/*#menu_text{
 	font-family: "Arial", Arial, sans-serif
 	font-size: 2em;
 	color: white;
