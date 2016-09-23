@@ -1,13 +1,21 @@
-#title_photo{
+.title_photo{
 	float: left;
     margin: 0px 50px 0 50px;
 }
 
-/*#menu_text{
-	font-family: "Arial", Arial, sans-serif
-	font-size: 2em;
-	color: white;
+#casual{
+	position: fixed;
+	margin: 150px 0px 0px 300px
 }
-
-
-
+#formal{
+	position: fixed;
+	margin: 150px 0px 0px 550px
+}
+#handbags{
+	position: fixed;
+	margin: 150px 0px 0px 1250px
+}
+#accessories{
+	position: fixed;
+	margin: 150px 0px 0px 1500px
+}
