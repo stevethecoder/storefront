@@ -1,21 +1,54 @@
-.title_photo{
-	float: left;
-    margin: 0px 50px 0 50px;
+
+ul {
+    list-style-type: none;
+    margin: 30px;
+    padding: 0;
+    }
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    padding: 6px 6px 6px 6px;
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none;
+
+    }
+
+ul {
+    display:block;width:300px;
+                }
+
+li a:hover {
+    background-color: #fb25df;
+    color: #FFFFFF;
+
+
+}#about_betty{
+	display: block;
+    color: #FFFFFF;
+    padding: 6px 6px 6px 6px;
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: left;
+    text-decoration: none;
 }
 
 #casual{
 	position: fixed;
-	margin: 150px 0px 0px 300px
+	margin: 350px 0px 0px 300px
 }
 #formal{
 	position: fixed;
-	margin: 150px 0px 0px 550px
+	margin: 350px 0px 0px 550px
 }
 #handbags{
 	position: fixed;
-	margin: 150px 0px 0px 1250px
+	margin: 350px 0px 0px 1250px
 }
 #accessories{
 	position: fixed;
-	margin: 150px 0px 0px 1500px
-}
+	margin: 350px 0px 0px 1500px

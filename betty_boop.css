@@ -1,0 +1,19 @@
+.MyButton{
+margin: 50px 0 0 50px; 
+width: 300px;
+padding: 20px;
+cursor: pointer;
+font-weight: bold;
+font-size: 150%;
+background: #fb25df;
+color: #fff;
+border-radius: 10px;
+border: 7px solid #000;
+}
+
+input.MyButton:hover {
+color: #fffdff;
+background: #000;
+border: 7px solid #fb25df;
+}
+
